@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Priyangshu713">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyangshu+%F0%9F%91%8B;Data-Driven+Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=7a8d6e&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyangshu+%F0%9F%91%8B;Data-Driven+Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Animated Typing SVG" />
   </a>
 </p>
 
@@ -8,7 +8,7 @@
 > Welcome to my GitHub! I am a dedicated professional passionate about building robust, intelligent solutions. I thrive at the intersection of full-stack development, data analysis, and machine learning, with a focus on transforming complex problems into clean, efficient, and user-centric applications.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZsdWJqdnVvZXl6eG9vNTV6eGRtNWI0eXB3MDR0NnhtZnJ6NTE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCgLkASffN/giphy.gif" alt="Data Animation" width="600px"/>
+  <img src="https://github.com/Priyangshu713/github-contributor-grid-snake/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
