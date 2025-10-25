@@ -4,9 +4,6 @@
   </a>
 </p>
 
-# 👋 Hi, I'm Priyangshu
-### 🚀 Data-Driven Developer | AI Specialist | Full-Stack Problem Solver
-
 > [!IMPORTANT]
 > Welcome to my GitHub! I am a dedicated professional passionate about building robust, intelligent solutions. I thrive at the intersection of full-stack development, data analysis, and machine learning, with a focus on transforming complex problems into clean, efficient, and user-centric applications.
 
