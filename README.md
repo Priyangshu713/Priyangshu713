@@ -97,9 +97,10 @@ Explore some of my impactful projects leveraging AI, data, and full-stack develo
 </p>
 <br>
 I am continuously expanding my horizons. Currently, my focus areas include:
-* **Fine-tuning LLMs:** Diving deeper into customizing large language models for specific domains.
-* **Real-time Data Architectures:** Exploring `Kafka` and `Flink` for instant data processing.
-* **Ethics in AI:** Ensuring fairness, transparency, and accountability in ML systems.
+
+**Fine-tuning LLMs:** Diving deeper into customizing large language models for specific domains.
+**Real-time Data Architectures:** Exploring `Kafka` and `Flink` for instant data processing.
+**Ethics in AI:** Ensuring fairness, transparency, and accountability in ML systems.
 
 ---
 
@@ -108,17 +109,17 @@ I am continuously expanding my horizons. Currently, my focus areas include:
 I'm always eager to collaborate on interesting data challenges, discuss new technologies, or simply connect with fellow enthusiasts. Feel free to reach out!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[Your-LinkedIn-Username]" target="_blank">
+  <a href="https://www.linkedin.com/in/priyangshu-dutta-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[Your-Email@gmail.com]" target="_blank">
+  <a href="mailto:[priyangshu713@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://[Your-Portfolio-Website.com]" target="_blank">
+  <a href="https://[https://portfolio-priyangshu.vercel.app/]" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/[Your-Twitter-Handle]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <a href=https://www.instagram.com/priyangshu_dutta_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
