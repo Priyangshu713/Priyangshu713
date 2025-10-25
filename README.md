@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://github.com/Priyangshu713">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyangshu+%F0%9F%91%8B;Data-Driven+Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Animated Typing SVG" />
-  </a>
+  <a href="https://github.com/Priyangshu713">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=7a8d6e&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyangshu+%F0%9F%91%8B;Data-Driven+Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions" alt="Animated Typing SVG" />
+  </a>
 </p>
-
 > [!IMPORTANT]
 > Welcome to my GitHub! I am a dedicated professional passionate about building robust, intelligent solutions. I thrive at the intersection of full-stack development, data analysis, and machine learning, with a focus on transforming complex problems into clean, efficient, and user-centric applications.
 
@@ -121,3 +120,4 @@ I'm always eager to collaborate on interesting data challenges, discuss new tech
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
+---
