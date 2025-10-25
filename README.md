@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+p>
 
 ---
 
@@ -64,27 +64,62 @@
 
 Here's a snapshot of my activity and contributions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyangshu713&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Priyangshu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyangshu713&theme=vue-dark&hide_border=true" alt="Priyangshu's Streak Stats" />
-</p>
-
-### Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyangshu713&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Priyangshu713&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Priyangshu's GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyangshu713&theme=vue-dark&hide_border=true" alt="Priyangshu's Streak Stats" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyangshu713&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+      </p>
+    </td>
+    <td width="40%">
+      <p align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZsdWJqdnVvZXl6eG9vNTV6eGRtNWI0eXB3MDR0NnhtZnJ6NTE5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCgLkASffN/giphy.gif" alt="Data Animation" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🌟 Featured Projects
 
-Explore some of my impactful projects leveraging AI, data, and full-stack development.
+Here are some of the projects I'm most proud of.
 
-| Project | Description | Technologies | Repository |
-| :--- | :--- | :--- | :--- |
-| **Gym Genie** | An AI-powered personal trainer providing workout and fitness advice. Built with a modern React front-end and powered by the Google Gemini API. | `React`, `Vite`, `Gemini AI` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Gym-Genie) |
-| **Health Connect** | A full-stack health solutions app using Gemini AI for insights. Features secure JWT authentication, a Node.js backend, and real-time chat with Socket.io. | `Node.js`, `Express`, `MongoDB`, `Gemini AI` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Health-Connect-Server) |
-| **Diabetes Prediction** | A web app to predict diabetes risk using a custom machine learning model. Built with a Python model, Node.js backend, and a React + Vite frontend. | `Python`, `ML`, `Node.js`, `React` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Diabetes-Prediction) |
+### ► Gym Genie (AI Fitness Coach)
+An AI-powered personal trainer providing workout and fitness advice. Built with a modern React front-end and powered by the Google Gemini API.
+<p>
+  <strong>Technologies:</strong> `React` `Vite` `Gemini AI`
+  <br><br>
+  <a href="https://github.com/Priyangshu713/Gym-Genie" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View Gym Genie Repo"/>
+  </a>
+</p>
+
+---
+
+### ► Health Connect (Full-Stack AI Health App)
+A full-stack health solutions app using Gemini AI for insights. Features secure JWT authentication, a Node.js backend, and real-time chat with Socket.io.
+<p>
+  <strong>Technologies:</strong> `Node.js` `Express` `MongoDB` `Gemini AI`
+  <br><br>
+  <a href="https://github.com/Priyangshu713/Health-Connect-Server" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View Health Connect Repo"/>
+  </a>
+</p>
+
+---
+
+### ► Diabetes Prediction (ML Web App)
+A web app to predict diabetes risk using a custom machine learning model. Built with a Python model, Node.js backend, and a React + Vite frontend.
+<p>
+  <strong>Technologies:</strong> `Python` `ML` `Node.js` `React`
+  <br><br>
+  <a href="https://github.com/Priyangshu713/Diabetes-Prediction" target="_blank">
+    <img src="https://img.shields.io/badge/View_Code-24292e?style=for-the-badge&logo=github&logoColor=white" alt="View Diabetes Prediction Repo"/>
+  </a>
+</p>
 
 ---
 
@@ -120,4 +155,10 @@ I'm always eager to collaborate on interesting data challenges, discuss new tech
   <a href="https://twitter.com/[Your-Twitter-Handle]" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyangshu713&color=61DAFB&style=flat-square" alt="Profile Visitors" />
 </p>
