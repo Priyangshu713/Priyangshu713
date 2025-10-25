@@ -118,7 +118,7 @@ I'm always eager to collaborate on interesting data challenges, discuss new tech
   <a href="https://portfolio-priyangshu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href=https://www.instagram.com/priyangshu_dutta_/" target="_blank">
+  <a href="https://www.instagram.com/priyangshu_dutta_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
