@@ -80,11 +80,11 @@ Here's a snapshot of my activity and contributions.
 
 Explore some of my impactful projects leveraging AI, data, and full-stack development.
 
-| Project | Description | Technologies | Repository |
+| Project | Description | Technologies | Links |
 | :--- | :--- | :--- | :--- |
-| **Gym Genie** | An AI-powered personal trainer providing workout and fitness advice. Built with a modern React front-end and powered by the Google Gemini API. | `React`, `Vite`, `Gemini AI` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Gym-Genie) |
-| **Health Connect** | A full-stack health solutions app using Gemini AI for insights. Features secure JWT authentication, a Node.js backend, and real-time chat with Socket.io. | `Node.js`, `Express`, `MongoDB`, `Gemini AI` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Health-Connect-Server) |
-| **Diabetes Prediction** | A web app to predict diabetes risk using a custom machine learning model. Built with a Python model, Node.js backend, and a React + Vite frontend. | `Python`, `ML`, `Node.js`, `React` | [![Explore Code](https://img.shields.io/badge/Code-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Diabetes-Prediction) |
+| **Gym Genie** | An AI-powered personal trainer providing workout and fitness advice. Built with a modern React front-end and powered by the Google Gemini API. | `React`, `Vite`, `Gemini AI` | [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Gym-Genie) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gym-genie-rust.vercel.app) |
+| **Health Connect** | A full-stack health solutions app using Gemini AI for insights. Features secure JWT authentication, a Node.js backend, and real-time chat with Socket.io. | `Node.js`, `Express`, `MongoDB`, `Gemini AI` | [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Health-Connect-Server) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://health-connect-official.vercel.app/) |
+| **Diabetes Prediction** | A web app to predict diabetes risk using a custom machine learning model. Built with a Python model, Node.js backend, and a React + Vite frontend. | `Python`, `ML`, `Node.js`, `React` | [![Code](https://img.shields.io/badge/Code-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyangshu713/Diabetes-Prediction) &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://diabetic-prediction-fontend.vercel.app) |
 
 ---
 
@@ -98,9 +98,9 @@ Explore some of my impactful projects leveraging AI, data, and full-stack develo
 <br>
 I am continuously expanding my horizons. Currently, my focus areas include:
 
-**Fine-tuning LLMs:** Diving deeper into customizing large language models for specific domains.
-**Real-time Data Architectures:** Exploring `Kafka` and `Flink` for instant data processing.
-**Ethics in AI:** Ensuring fairness, transparency, and accountability in ML systems.
+* **Fine-tuning LLMs:** Diving deeper into customizing large language models for specific domains.
+* **Real-time Data Architectures:** Exploring `Kafka` and `Flink` for instant data processing.
+* **Ethics in AI:** Ensuring fairness, transparency, and accountability in ML systems.
 
 ---
 
