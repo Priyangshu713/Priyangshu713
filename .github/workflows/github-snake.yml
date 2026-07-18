@@ -22,7 +22,7 @@ jobs:
           github_user_name: Priyangshu713
           outputs: |
             dist/github-snake.svg?palette=github-dark
-            dist/github-snake-pink.svg?color_snake=#ff7eb6&color_dots=#2d1b4e,#5b2a86,#8b5cf6,#c084fc,#ff7eb6
+            dist/github-snake-pink.svg?color_snake=%23ff7eb6&color_dots=%232d1b4e,%235b2a86,%238b5cf6,%23c084fc,%23ff7eb6
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
