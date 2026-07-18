@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner.svg?v=1" alt="Priyangshu Dutta — Data Analyst" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/banner-light.svg?v=2">
+  <img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/banner.svg?v=2" alt="Priyangshu Dutta — Data Analyst" width="100%"/>
 </picture>
 
 </div>
@@ -13,13 +13,13 @@
 
 <table align="center" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./lanyard.svg?v=3" alt="Priyangshu Dutta ID badge" width="330"/>
+<img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/lanyard.svg?v=4" alt="Priyangshu Dutta ID badge" width="400"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="55%" valign="middle">
 
 ### 📊 Featured Projects
 
@@ -43,8 +43,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./langs.svg?v=2" alt="Top Languages" height="185"/>
+<img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/stats.svg?v=3" alt="GitHub Stats" height="185"/>
+<img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/langs.svg?v=3" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -58,7 +58,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./trophies.svg?v=2" alt="Trophies" width="95%"/>
+<img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/main/trophies.svg?v=3" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
