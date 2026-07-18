@@ -1,102 +1,87 @@
 <div align="center">
 
+<!-- ✨ Animated Banner ✨ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img alt="Priyangshu Dutta animated banner" src="./banner.svg?v=1" width="100%">
+  <img src="./banner.svg?v=1" alt="Priyangshu Dutta — Data Analyst" width="100%"/>
 </picture>
-
-<br><br>
-
-<img src="./lanyard.svg?v=1" alt="Animated developer lanyard" width="420">
-
-<h1>Priyangshu Dutta</h1>
-<h3>Data Analyst • Python • SQL • Dashboards • Product Thinking</h3>
-
-<p>
-  <a href="https://github.com/Priyangshu713">
-    <img src="https://img.shields.io/badge/GitHub-Priyangshu713-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:priyangshudutta2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-priyangshudutta2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://priyangshudutta.qzz.io/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/priyangshu-dutta-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Priyangshu713&style=for-the-badge&color=ff69b4" alt="Profile views">
 
 </div>
 
----
+<br/>
 
-## About me
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-- Data analyst by title, full-stack builder by instinct.
-- I turn messy data, thoughtful UX, and ML experiments into useful products.
-- Currently exploring LLMs, real-time data, and responsible AI.
+<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
+<img src="./lanyard.svg?v=3" alt="Priyangshu Dutta ID badge" width="330"/>
 
-## Toolkit
+</td>
+<td width="62%" valign="middle">
 
-<p align="center">
-  <img src="./stats.svg?v=1" alt="Local animated stats card" width="980">
-  <br><br>
-  <img src="./langs.svg?v=1" alt="Local animated language card" width="980">
-  <br><br>
-  <img src="./trophies.svg?v=1" alt="Local animated trophies card" width="980">
-</p>
+### 📊 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
-</p>
+| 🎌 Project | 💻 Tech | Links |
+|:---|:---:|:---:|
+| **Gym Genie** | `React` `Vite` `Gemini` | [Code](https://github.com/Priyangshu713/GymGenie) • [Live](https://gym-genie-rust.vercel.app) |
+| **MediBridge** | `Node.js` `Express` `MongoDB` | [Code](https://github.com/Priyangshu713/MediBridge_) • [Live](https://about.medibridge.qzz.io/) |
+| **Diabetes Prediction** | `Python` `ML` `React` | [Code](https://github.com/Priyangshu713/diabetic-prediction-fontend) • [Live](https://diabetic-prediction-fontend.vercel.app) |
 
-## Featured projects
+<br/>
 
-| Project | What it does | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Gym Genie** | AI-powered personal trainer for workouts and fitness advice. | `React`, `Vite`, `Gemini AI` | [Code](https://github.com/Priyangshu713/GymGenie) · [Live demo](https://gym-genie-rust.vercel.app) |
-| **MediBridge** | Full-stack health companion with secure sign-in, AI insights, and real-time chat. | `Node.js`, `Express`, `MongoDB`, `Socket.io` | [Code](https://github.com/Priyangshu713/Health-Connect-App) · [Live demo](https://medibridge.qzz.io/) |
-| **Diabetes Prediction** | ML-backed web app for diabetes-risk prediction. | `Python`, `ML`, `Node.js`, `React` | [Code](https://github.com/Priyangshu713/diabetic-prediction-fontend) · [Live demo](https://diabetic-prediction-fontend.vercel.app) |
+> 💗 *"I don't just analyze data, I decode stories."*
 
-## Contributions
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyangshu713&theme=react-dark&hide_border=true&v=1" alt="Activity Graph">
-</p>
+<br/>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/output/github-snake-pink.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/output/github-snake.svg?v=2">
-    <img alt="github snake" src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/output/github-snake-pink.svg?v=2">
-  </picture>
-</p>
+<div align="center">
 
-## Connect
+### 📊 GitHub Stats & Graphs
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyangshu-dutta-/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:priyangshudutta2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://priyangshudutta.qzz.io/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.instagram.com/the_priyangshu_diaries">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+<img src="./stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./langs.svg?v=2" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Priyangshu713&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyangshu713&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies (local animated SVG — always loads) -->
+<img src="./trophies.svg?v=2" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/Priyangshu713/Priyangshu713/output/github-snake-pink.svg?v=2" alt="Contribution snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:priyangshudutta2003@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Priyangshu713"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/priyangshu-dutta-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://priyangshudutta.qzz.io/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/priyangshu.archive/"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Priyangshu713&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*⭐️ Always learning, always building.* 💗
+
+</div>
